@@ -1,0 +1,11 @@
+OrderID, Product Name ,Category ,PRICE,Quantity,Date
+1, " Widget A ", " Office ", $12.50, 2, 2025-10-01
+2, "Gadget B",Electronics, , 5,2025-10-02
+3, "Thing C"," Home", 8.99, -1,2025-10-03
+4, " Widget A",Office,12.50,3,2025-10-04
+5, "Gadget B", Electronics ,$15.00, ,2025-10-05
+6, "BrokenItem","Misc", -5.00, 1,2025-10-06
+7, "  Thing C","Home",9.00,2,2025-10-07
+8, "New Product",NewArrivals,abc,4,2025-10-08
+9, "Unknown","",10.00,1,2025-10-09
+10, "NullPrice","Office",,0,2025-10-10
